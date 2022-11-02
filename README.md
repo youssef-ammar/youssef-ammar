@@ -14,7 +14,7 @@
 <!-- [![Medium](https://img.shields.io/badge/-Medium-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@brennanbrown)]()
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)]()
 [![Facebook](https://img.shields.io/badge/-Facebook-4267B2?style=flat&labelColor=4267B2&logo=facebook&logoColor=white)]() -->
-  <!-- - 🌱 I’m currently learning **Symfony**.-->
+  <!-- - 🌱 I’m currently learning **Flutter**.-->
 
 </div>
 <br />
