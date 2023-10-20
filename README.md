@@ -17,8 +17,7 @@
   <!-- - 🌱 I’m currently learning **Flutter**.-->
 </div>
 <br />
-<img align="right" alt="GIF" src="https://media.giphy.com/media/X4Z86vnJajAVqubQi7/giphy.gif
-" height="300" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/X4Z86vnJajAVqubQi7/giphy.gif" height="300" />
 
 Hi there, I'm Youssef 😉, a Full Stack Developer 🚀 from Tunisia 🇹🇳, currently, I'm a Student [@ESPRIT](https://esprit.tn/). Passionate about Web & Mobile Development.
 
