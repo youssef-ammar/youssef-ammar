@@ -16,7 +16,7 @@
 [![Facebook](https://img.shields.io/badge/-Facebook-4267B2?style=flat&labelColor=4267B2&logo=facebook&logoColor=white)]() -->
   <!-- - 🌱 I’m currently learning **Flutter**.-->
 </div>
-<br />height="300" 
+<br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="300" />
 
 Hi there, I'm Youssef 😉, a Full Stack Developer 🚀 from Tunisia 🇹🇳, currently, I'm a Student [@ESPRIT](https://esprit.tn/). Passionate about Web & Mobile Development.
