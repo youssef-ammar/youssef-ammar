@@ -21,7 +21,7 @@
 
 Hi there, I'm Youssef 😉, a Full Stack Developer 🚀 from Tunisia 🇹🇳, currently, I'm a Student [@ESPRIT](https://esprit.tn/). Passionate about Web & Mobile Development.
 
-- 👨🏻‍💻 🌱 I’m currently learning **Angular**.
+- 👨🏻‍💻 🌱 I’m currently learning **Express**.
 
 - 🎓 Studying Computer Science at **Private Higher School of Engineering and Technology (ESPRIT)**.
 
