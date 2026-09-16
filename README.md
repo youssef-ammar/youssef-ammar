@@ -77,6 +77,18 @@ Booking engines · GDS integration (Amadeus, TravelGate) · Real-time pricing en
 
 <br />
 
+### 📊 GitLab Activity
+
+I do most of my day-to-day commit work on a self-hosted GitLab instance at DOTCOM. Here's a live dashboard of that activity:
+
+<div align="center">
+  <a href="https://youssef-ammar.github.io/gitlab-activity/">
+    <img src="https://img.shields.io/badge/-View%20GitLab%20Activity%20Dashboard-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab Activity Dashboard">
+  </a>
+</div>
+
+<br />
+
 <div align="left">
   <a href="mailto:youssef.ammar.tn@gmail.com">📧 youssef.ammar.tn@gmail.com</a> · 📱 +216 23 590 421
 </div>
